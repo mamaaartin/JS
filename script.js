@@ -28,4 +28,3 @@ do {
             alert("OPCION INCORRECTA")
     }
 } while (mk !== 3)
-1
