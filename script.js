@@ -35,5 +35,4 @@ function millastokilometros(millas) {
 function kilometrostomillas(kilometros) {
     millas = kilometros / 1.609
     return millas
-
 }
